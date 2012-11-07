@@ -1,0 +1,15 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdftex 2012.10.18)  21 OCT 2012 20:57
+entering extended mode
+**G:/MathModeling_project.git/Reports/Work*Statement/Biblio.bib
+("G:/MathModeling_project.git/Reports/Work Statement/Biblio.bib"
+! Undefined control sequence.
+l.11      TITLE ={{\em
+                       Planning electricity transmission to accommodate rene...
+
+? 
+! Emergency stop.
+l.11      TITLE ={{\em
+                       Planning electricity transmission to accommodate rene...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

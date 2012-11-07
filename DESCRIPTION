@@ -1,0 +1,9 @@
+Package: teampackage
+Type: Package
+Title: teampackage
+Version: 0.0
+Date: 2012-11-07
+Author: Jonathan Ho, Jordan Mandel, Yue Wu
+Maintainer: Yue Wu <ywu67@jhu.edu>
+Description: Package for team project
+License: GPL-3
